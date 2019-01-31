@@ -1,1 +1,1 @@
-This version of the Weather app has CurrentConditionsContainer fetching all data for itself and ForecastContainer. Since they are siblings on the component tree this seems a logical mistake. I'm moving on to ch5.07 where App will fetch all data and components will render it.
+Please note, this app may still work but you will need an API key from WeatherUnderground to replace the one currently in the code, which is no longer valid.
